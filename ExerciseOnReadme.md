@@ -36,11 +36,11 @@ The answer to that question :point_up: is Practice and more practice.
 I found getting around github challenging.:umbrella:
 
  - ### :muscle: ***How did I overcome the challenge in week three***
-        - I revisited the class lessons.
-        - I got more information on how to navigate github online and on the platform itself.
-        - I studied, practiced and got into learning by buying courses on git and github on udemy(A learning platform).
-        - I reached out to my mentor and got advice.
-        - I sought assistance for technicial individuals in my circle.
+    - I revisited the class lessons.
+    - I got more information on how to navigate github online and on the platform itself.
+    - I studied, practiced and got into learning by buying courses on git and github on udemy(A learning platform).
+    - I reached out to my mentor and got advice.
+    - I sought assistance for technicial individuals in my circle.
  :nerd_face:
 
 > I got more information on how to get started on github here : "[https://docs.github.com/en/get-started/onboarding/](https://docs.github.com/en/get-started/learning-about-github)"
@@ -51,3 +51,5 @@ The lessons that followed was introduction to software Development and programmi
 - ### :confused:  ***What I Have struggled with in week four***
 
 The lectures we had in week four was understood and I had no struggles.
+
+> NOTE: My learning on github is still on-going.
